@@ -1,5 +1,11 @@
 # About Task Definition Memory
 
+**Related post **
+
+- [What do I need to know about CPU allocation in Amazon ECS?](https://repost.aws/knowledge-center/ecs-cpu-allocation)
+- [The CPU and Memory Management in AWS ECS](https://shihtiy.com/posts/ECS-CPU-Memory/)
+- [How to calculate resources reservation for ECS task](https://medium.com/@vlad.fedosov/how-to-calculate-resources-reservation-for-ecs-task-3c68a1e12725)
+
 When you are defining a task definition, you can specify the amount of memory and CPU in the task itself or in the container definitions. The task memory is the total amount of memory that is reserved for the task to run. The task memory is the sum of the memory that is reserved for the containers in the task. The task memory is the total amount of memory that is reserved for the task to run. The task memory is the sum of the memory that is reserved for the containers in the task.
 
 ## memory vs memoryReservation
