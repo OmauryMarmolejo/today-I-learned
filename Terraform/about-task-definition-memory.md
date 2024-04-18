@@ -1,6 +1,6 @@
 # About Task Definition Memory
 
-**Related post **
+**Related post**
 
 - [What do I need to know about CPU allocation in Amazon ECS?](https://repost.aws/knowledge-center/ecs-cpu-allocation)
 - [The CPU and Memory Management in AWS ECS](https://shihtiy.com/posts/ECS-CPU-Memory/)
