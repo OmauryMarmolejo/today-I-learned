@@ -12,6 +12,7 @@ A spot to stash everything I've learned during the day.
 ## German
 
 - [Simple Sentences](german/simple-sentences.md)
+- [Simple Sentences and grammar](german/simple-sentences-and-grammar.md)
 
 ## English
 
