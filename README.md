@@ -19,6 +19,7 @@ A spot to stash everything I've learned during the day.
 
 - [The passive in the future](english/the-passive-in-the-future.md)
 - [Idioms with "Book"](english/idioms-with-book.md)
+- [Modals in the present passive](english/modals-in-the-present-passive.md)
 
 ## Terraform
 
