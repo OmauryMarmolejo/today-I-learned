@@ -19,7 +19,7 @@ The modal verbs are used to express ability, possibility, permission, or obligat
 
 Modals verbs in English can be used in passive forms. As with other passive constructions, the emphasis changes to the object that receives the action.
 
-Modals in the passive form don't change. The sentence starts with the modal, then the berb "be" plus the past participle of the main verb.
+Modals in the passive form don't change. The sentence starts with the modal, then the verb "be" plus the past participle of the main verb.
 
 ## How to form
 
