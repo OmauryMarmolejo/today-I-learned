@@ -25,3 +25,4 @@ A spot to stash everything I've learned during the day.
 
 - [About Task Definition Memory](terraform/about-task-definition-memory.md)
 - [ECS EC2 considerations found in the wild](terraform/ecs-ec2-considerations.md)
+- [ECS Infrastructure with Autoscaling and Load Balancer](terraform/ecs-infrastructure-with-autoscaling-and-load-balancer.md)
