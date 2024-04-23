@@ -14,6 +14,7 @@ A spot to stash everything I've learned during the day.
 - [Simple Sentences](german/simple-sentences.md)
 - [Simple Sentences and grammar](german/simple-sentences-and-grammar.md)
 - [Interrogative Sentences](german/interrogative-sentences.md)
+- [Why and Because](german/why-and-because.md)
 
 ## English
 
