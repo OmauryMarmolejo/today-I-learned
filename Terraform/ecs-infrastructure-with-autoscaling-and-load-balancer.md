@@ -67,12 +67,12 @@ data "aws_vpc" "vpc" {
 
 Where `vpc-12345678` is the ID of the VPC.
 
-## Step 2 - Create (or reference) subnets
+## Step 2 - Create (or reference) Subnets
 
 You can use the following Terraform code to create subnets:
 
 ```hcl
-resource "aws_subnet" "private" {
+resource "aws_subnet" "subnet_name" {
     vpc_id = var.vpc_id
     cidr_block = "10.0.2.0/24"
     map_public_ip_on_launch = true
@@ -96,3 +96,17 @@ data "aws_subnet" "private" {
 ```
 
 Where `subnet-12345678` is the ID of the subnet.
+
+## Step 3 - Create Internet Gateway
+
+To create an internet gateway resource, you can use this Terraform code:
+
+```hcl
+resource "aws_internet_gateway" "internet_gateway" {
+  vpc_id = var.vpc_id
+
+  tags = {
+    Name = "internet_gateway"
+  }
+}
+```
