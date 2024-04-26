@@ -7,6 +7,7 @@ A spot to stash everything I've learned during the day.
   - [English](#english)
   - [Terraform](#terraform)
   - [DevOps](#devops)
+- [Rails](#rails)
 
 ---
 
@@ -33,3 +34,7 @@ A spot to stash everything I've learned during the day.
 ## DevOps
 
 - [A way to present a proposal for an architecture](devops/a-way-to-present-a-proposal-for-an-architecture.md)
+
+# Rails
+
+- [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
