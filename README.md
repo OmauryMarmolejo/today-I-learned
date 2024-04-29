@@ -8,6 +8,7 @@ A spot to stash everything I've learned during the day.
   - [Terraform](#terraform)
   - [DevOps](#devops)
 - [Rails](#rails)
+  - [HTML](#html)
 
 ---
 
@@ -38,3 +39,7 @@ A spot to stash everything I've learned during the day.
 # Rails
 
 - [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
+
+## HTML
+
+- [tables](html/tables.md)
