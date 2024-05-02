@@ -8,6 +8,7 @@ A spot to stash everything I've learned during the day.
   - [Terraform](#terraform)
   - [DevOps](#devops)
 - [Rails](#rails)
+- [Random](#random)
 
 ---
 
@@ -39,3 +40,7 @@ A spot to stash everything I've learned during the day.
 # Rails
 
 - [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
+
+# Random
+
+- [Hara Hachi Bu](random/hara-hachi-bu.md)
