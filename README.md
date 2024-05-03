@@ -26,6 +26,7 @@ A spot to stash everything I've learned during the day.
 - [Modals in the present passive](english/modals-in-the-present-passive.md)
 - [Expressions for Musicians and Music Lovers](english/expressions-for-musicians-and-music-lovers.md)
 - [From Standard to Casual](english/from-standard-to-casual.md)
+- [On expressions](english/on-expressions.md)
 
 ## Terraform
 
