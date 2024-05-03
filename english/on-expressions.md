@@ -37,6 +37,11 @@
 - Look, that dress is **on sale**.
 - I bought this book because it was **on sale**.
 
+Note: **For sale** is used when something is available to be bought. **On sale** is used when something is being sold at a lower price.
+
+- The house is **for sale**. (It's available to be bought.)
+- The house is **on sale**. (It's being sold at a lower price.)
+
 ## On Purpose
 
 - She did it intentionally. She did it **on purpose**.
