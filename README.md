@@ -28,6 +28,7 @@ A spot to stash everything I've learned during the day.
 - [Expressions for Musicians and Music Lovers](english/expressions-for-musicians-and-music-lovers.md)
 - [From Standard to Casual](english/from-standard-to-casual.md)
 - [On expressions](english/on-expressions.md)
+- [Simple Past vs Present Perfect](english/simple-past-vs-present-perfect.md)
 
 ## Terraform
 
