@@ -20,6 +20,7 @@ A spot to stash everything I've learned during the day.
 - [Why and Because](german/why-and-because.md)
 - [Wer, Wie und Was](german/wer-wie-was.md)
 - [Wer, Wie und Was - Context](german/wer-wie-was-context.md)
+- [Numbers - Zahlen](german/numbers.md)
 
 ## English
 
