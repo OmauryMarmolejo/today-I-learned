@@ -32,6 +32,7 @@ A spot to stash everything I've learned during the day.
 - [On expressions](english/on-expressions.md)
 - [Simple Past vs Present Perfect](english/simple-past-vs-present-perfect.md)
 - [Expressions for Boxing](english/expressions-for-boxing.md)
+- [Meanings of "Drop"](english/meanings-of-drop.md)
 
 ## Terraform
 
