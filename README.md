@@ -7,8 +7,8 @@ A spot to stash everything I've learned during the day.
   - [English](#english)
   - [Terraform](#terraform)
   - [DevOps](#devops)
-- [Rails](#rails)
-- [Random](#random)
+  - [Rails](#rails)
+  - [Random](#random)
 
 ---
 
@@ -22,6 +22,7 @@ A spot to stash everything I've learned during the day.
 - [Wer, Wie und Was - Context](german/wer-wie-was-context.md)
 - [Numbers - Zahlen](german/numbers.md)
 - [Question Words - Fragenwörter](german/question-words.md)
+- [Präsens, Präteritum, Futur](german/prasents-prateritum-futur.md)
 
 ## English
 
@@ -47,10 +48,10 @@ A spot to stash everything I've learned during the day.
 
 - [A way to present a proposal for an architecture](devops/a-way-to-present-a-proposal-for-an-architecture.md)
 
-# Rails
+## Rails
 
 - [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
 
-# Random
+## Random
 
 - [Hara Hachi Bu](random/hara-hachi-bu.md)
