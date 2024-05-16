@@ -51,6 +51,7 @@ A spot to stash everything I've learned during the day.
 ## Rails
 
 - [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
+- [The Chainable Request Pattern](rails/the-chainable-request-pattern.md)
 
 ## Random
 
