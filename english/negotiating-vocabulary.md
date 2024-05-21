@@ -46,3 +46,6 @@
   - The aim of negotiation is to find a solution that benefits everyone involved.
 - Aim: To point or direct toward a particular object or target.
   - She aims to get straight A's this semester.
+- All the way up: Means completely, entirely, or to the maximum extent. Often used to emphasize the degree or extent of something.
+  - She turned the volume all the way up to hear the music better
+  - He was all the way up the mountain when the storm hit.
