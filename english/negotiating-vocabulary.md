@@ -42,3 +42,7 @@
   - He always keeps a few tricks up his sleeve for tough negotiations.
 - What's the best you can do?: A question often asked in a negotiation to prompt the other party to make their best offer or concession.
   - He asked, "What's the best you can do?" to see if there was room for further negotiation.
+- The aim of negotiation: To reach an agreement or settlement that satisfies the interests of both parties.
+  - The aim of negotiation is to find a solution that benefits everyone involved.
+- Aim: To point or direct toward a particular object or target.
+  - She aims to get straight A's this semester.
