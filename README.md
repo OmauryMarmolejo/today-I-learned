@@ -9,6 +9,7 @@ A spot to stash everything I've learned during the day.
   - [DevOps](#devops)
   - [Rails](#rails)
   - [Random](#random)
+    - [Tech](#tech)
 
 ---
 
@@ -57,3 +58,7 @@ A spot to stash everything I've learned during the day.
 ## Random
 
 - [Hara Hachi Bu](random/hara-hachi-bu.md)
+
+### Tech
+
+- [Prefer Noun-Adjective Naming](random/tech/prefer-noun-adjective-naming.md)
