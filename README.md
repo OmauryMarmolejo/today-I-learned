@@ -35,6 +35,7 @@ A spot to stash everything I've learned during the day.
 - [Simple Past vs Present Perfect](english/simple-past-vs-present-perfect.md)
 - [Expressions for Boxing](english/expressions-for-boxing.md)
 - [Meanings of "Drop"](english/meanings-of-drop.md)
+- [Negotiating Vocabulary](english/negotiating-vocabulary.md)
 - [Anki series](english/anki-series/)
 
 ## Terraform

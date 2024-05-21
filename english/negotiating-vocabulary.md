@@ -1,0 +1,44 @@
+# Negotiating Vocabulary
+
+## Vocabulary
+
+- Bargaing: To discuss the terms of an agreement, contract, or transaction, often with the goal of reaching a mutually beneficial outcome.
+  - The two sides spent hours bargaining over the terms of the deal.
+- Haggling: To argue or dispute over the price or terms of a transaction, often with the goal of getting a better deal.
+  - She was haggling with the shopkeeper over the price of the rug.
+- Middle ground: A position or solution that is acceptable or agreeable to both parties, often reached through compromise.
+  - They were able to find a middle ground on the contentious issue.
+- Compromise: To settle a dispute or reach an agreement by making concessions or finding a middle ground.
+  - Both sides had to compromise in order to reach a deal.
+- Give and take: The process of making concessions or compromises in a negotiation in order to reach an agreement.
+  - Negotiations require a lot of give and take to be successful.
+- Flexibility: The ability to adapt or change one's position or approach in response to changing circumstances or new information.
+  - Flexibility is key in negotiations to find common ground.
+- Mutual benefit: A situation in which both parties gain or benefit from an agreement or transaction.
+  - The agreement was structured to ensure mutual benefit for both parties.
+- Reciprocate: To respond to a gesture or action with a similar one, often in a positive or cooperative manner.
+  - She reciprocated his offer with a generous counteroffer.
+- Proposal/counter-proposal: A formal offer or suggestion made in a negotiation, often followed by a response or counter-offer.
+  - The company made a proposal, and the union responded with a counter-proposal.
+- Highballing: To start a negotiation with an unrealistically high offer or demand, often with the goal of settling for a lower amount.
+  - He was highballing the price to see how much he could get away with.
+- Lowballing: To start a negotiation with an unrealistically low offer or demand, often with the goal of settling for a higher amount.
+  - She was lowballing the price to try to get a better deal.
+- Deadlock: A situation in which two parties are unable to reach an agreement or compromise, often resulting in a stalemate.
+  - The negotiations reached a deadlock, and both sides walked away without a deal.
+- Dealbreaker: An issue or condition that is non-negotiable and would prevent an agreement from being reached.
+  - The lack of a non-compete clause was a dealbreaker for the company.
+- Stand one's ground: To maintain one's position or stance in a negotiation, often in the face of pressure or opposition.
+  - She stood her ground and refused to back down on the key issue.
+- Bring to the table: To introduce or offer something in a negotiation, often with the goal of reaching an agreement.
+  - He brought several new ideas to the table during the negotiation.
+- Beat around the bush: To avoid addressing or discussing a topic directly, often by speaking in a vague or evasive manner.
+  - Stop beating around the bush and tell me what you really think.
+- Hold all the aces: To have all the advantages or power in a negotiation, often implying a strong position.
+  - She held all the aces in the negotiation and was able to dictate the terms.
+- Get back to someone: To respond to someone's request or inquiry at a later time, often after considering or researching the matter.
+  - I'll have to get back to you on that proposal after I review the details.
+- Keep something up one's sleeve: To have a secret plan or strategy that one can use to gain an advantage in a negotiation.
+  - He always keeps a few tricks up his sleeve for tough negotiations.
+- What's the best you can do?: A question often asked in a negotiation to prompt the other party to make their best offer or concession.
+  - He asked, "What's the best you can do?" to see if there was room for further negotiation.
