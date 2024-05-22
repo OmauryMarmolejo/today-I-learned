@@ -24,6 +24,7 @@ A spot to stash everything I've learned during the day.
 - [Numbers - Zahlen](german/numbers.md)
 - [Question Words - Fragenwörter](german/question-words.md)
 - [Präsens, Präteritum, Futur](german/prasents-prateritum-futur.md)
+- [Sentences with "heißen"](german/sentences-with-hei%C3%9Fen.md)
 
 ## English
 
