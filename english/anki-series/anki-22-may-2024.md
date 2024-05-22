@@ -1,0 +1,30 @@
+# Anki Session 22nd May 2024
+
+- **Hide**: To put something in a place where it cannot be seen or found.
+  - Brian hides his cigarettes in there just in case
+- **Speak**: To say words, to talk.
+  - Could you please speak more slowly?
+- **Chest**: The front part of the body between the neck and the stomach
+  - Kyle got a tattoo of a chicken on his chest
+- **Swam**: The past tense of swim, which means to move through water by making movements with the arms and legs.
+  - She swam across the lake to the other side
+- **Turn**: To move or to cause something to move in a circle around a central point.
+  - The key turns to the left, not to the right
+- **Flew**: The past tense of fly, which means to move through the air using wings.
+  - Margaret flew to Boston yesterday
+- **Sharp**: Having a thin edge or point that can cut something or make a hole in something.
+  - My knife isn't as sharp as it used to be
+- **Stare**: To look for a long time with the eyes wide open, especially when surprised, frightened, or thinking.
+  - He was staring at me the whole time
+- **Ceiling**: The inside surface of a room that you can see when you look above your.
+  - The ceiling of the room was painted blue
+- **Stared**: The past tense of stare, which means to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking.
+  - She stared at the painting for a long time
+- **While**: A period of time, especially a short one.
+  - While you're shopping, can you please but some eggs?
+- **Dreamt**: The past tense of dream, which means to experience events and images in your mind while you are sleeping.
+  - I dreamt I was a horse and could fly
+- **Wrist**: The part of the body between the hand and the arm.
+  - Hector fell and injured his wrist
+- **Towards**: In the direction of.
+  - Move towards me slowly, one step at a time
