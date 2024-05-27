@@ -1,0 +1,82 @@
+# Anki Session 27th May 2024
+
+## Vocabulary
+
+- Enhance: To improve something or make it better.
+  - The new software update is designed to enhance the user experience
+- Contribute: To give something, time, money, energy, etc., to help achieve a goal or benefit
+  - She contributes to the local food bank every month
+- Adapt: To change something to suit different conditions or uses
+  - The plants have adapted to survive in the desert
+- Efficient: Something works well without wasting time or effort
+  - The new system is more efficient than the old one
+- Convey: TO communicate or make known
+  - The painting conveys a sense of peace and tranquility
+- Furthermore: In addition, moreover
+  - The project is on schedule, and furthermore, we are under budget
+- Consequently: As a result, therefore
+  - The weather was terrible; consequently, the event was canceled
+- Conversely: In contrast, on the other hand
+  - Some people prefer tea; conversely, others prefer coffer
+- Stir: To mix something by moving it around with a spoon or other object
+  - She stirred the soup to make sure it didn't burn
+- Stirred: The past tense of stir, which means to mix something by moving it around with a spoon or other object
+  - The cake batter was stirred until it was smooth
+- Sweep: To clean a surface using a brush or broom
+  - Daniela swept the floor of the barn
+- Swept: The past tense of sweep, which means to clean a surface using a brush or broom
+  - The janitor swept the hallway every morning
+- Barn: A large building on a farm where animals, crops, or equipment are kept
+  - The horses were kept in the barn during the storm
+- Faint: To lose consciousness temporarily, often due to a lack of oxygen to the brain
+  - I need to eat soon or else I'm going to faint
+- Or else: Used to introduce a possible consequence or alternative
+  - You need to finish your homework, or else you won't be able to go out
+- Purse: A small bag used to carry money, cards, and other personal items
+  - She reached into her purse to find her keys
+  - Katie looked in her purse for a tissue
+- Tissue: A soft, thin piece of paper used for cleaning or wiping
+  - She used a tissue to wipe her nose
+  - He handed her a tissue to dry her tears
+- Wipe off: To clean or dry something by moving a cloth or one's hand across it
+  - Wipe the dust off the table
+  - She wiped off the counter after cooking
+- Counter: A long, flat surface in a kitchen or bathroom where food is prepared or served
+  - She placed the groceries on the kitchen counter
+  - The bathroom counter was cluttered with toiletries
+- Toiletries: Items such as soap, shampoo, toothpaste, etc., used for personal hygiene
+  - She packed her toiletries in a small bag for the trip
+  - The hotel provided complimentary toiletries for guests
+- Cluttered: To fill or cover with scattered or disordered things that impede movement or reduce effectiveness
+  - The desk was cluttered with papers and books
+  - The room was cluttered with toys and clothes
+- Scattered: To be thrown in various random directions
+  - The leaves were scattered across the lawn
+  - The toys were scattered around the room
+- Tough: The ability to endure hardship or pain
+  - She's a tough competitor on the tennis court
+  - The marathon was tough, but he finished strong
+  - He said that his job was tough
+- Wound: An injury to the body, typically involving a break in the skin
+  - She cleaned the wound and applied a bandage
+  - It will take time for him to recover from his wounds
+- Tear: To pull or rip something apart or to pieces with force
+  - She tore the paper in half
+  - The dog tore the toy to shreds
+  - Gary tore his bread into two pieces and gave one to Allie
+- Tore: The past tense of tear, which means to pull or rip something apart or to pieces with force
+  - She tore the fabric to make a patch for her jeans
+  - The storm tore the roof off the house
+- Shelf: A flat, horizontal surface used for storing or displaying items
+  - She placed the books on the shelf
+  - The shelf in the kitchen held the spices and cooking oils
+  - The spices are on the top shelf
+- Settle down: To become calm or orderly
+  - The children settled down after playing outside
+  - The class settled down after the teacher entered the room
+  - Settle down and remember to breath
+- Plain: Simple, not decorated or elaborate
+  - The walls were painted a plain white
+  - The dress was plain but elegant
+  - The room was plain and unadorned
+  - Say it in plain terms
