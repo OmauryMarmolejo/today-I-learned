@@ -8,6 +8,7 @@ A spot to stash everything I've learned during the day.
   - [Terraform](#terraform)
   - [DevOps](#devops)
   - [Rails](#rails)
+  - [React](#react)
   - [Random](#random)
     - [Tech](#tech)
 
@@ -25,6 +26,8 @@ A spot to stash everything I've learned during the day.
 - [Question Words - Fragenwörter](german/question-words.md)
 - [Präsens, Präteritum, Futur](german/prasents-prateritum-futur.md)
 - [Sentences with "heißen"](german/sentences-with-hei%C3%9Fen.md)
+- [Deklinationen](german/deklinationen.md)
+- [Deklinationen - Context](german/deklinationen-context.md)
 
 ## English
 
@@ -55,6 +58,10 @@ A spot to stash everything I've learned during the day.
 
 - [Dealing with XML request and their params](rails/dealing-with-xml-request-and-their-params.md)
 - [The Chainable Request Pattern](rails/the-chainable-request-pattern.md)
+
+## React
+
+- [Why immutability is important in React](react/why-immutability-is-important-in-react.md)
 
 ## Random
 
