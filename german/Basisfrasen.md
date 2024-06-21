@@ -1,0 +1,38 @@
+# Basisfrasen
+
+- Ich komme aus Mexiko (ij kome aus meksiko): I come from Mexico
+- Ich wohne in Mexiko (ij vóne in meksiko): I live in Mexico
+- Welche Staatsangehörigkeit haben Sie? (velje shtatsangehörigkeit jabn zi): What is your country?
+- Ich spreche Spanisch, Englisch und Deutsch (ij shpreje shpanish, inglisch unt doytsh): I speak Spanish, English and German
+- Ich spreche kein Deutsch (ij shpreje kein doytsh): I don't speak German
+- Ich kann kein Deutsch (ij kan kein doytsh): I can't speak German
+- Ich spreche ein bisschen Deutsch (ij shpreje ain bishen doytsh): I speak a little German
+- Moin moin (moin moin): Hi (Northern Germany)
+- Grüß Dich (grüs dij): Hi (Southern Germany) [informal]
+- Guten Morgen (gúten morgen): Good morning (formal) [until 10:00]
+- Guten Tag (gúten tak): Good day (formal) [until 18:00]
+- Mahlzeit (máltsait): Good day (formal) [at lunchtime]
+- Gutten Abend (gúten abent): Good evening (formal) [after 17:00]
+- Gute Nacht (gúte najt): Good night (formal) [before going to bed]
+- Ssehr geehrten Herr Merkel (zér guerter her merkel): Dear Mr. Merkel
+- Sehr geehrte Frau Merkel (zér guerter frau merkel): Dear Mrs. Merkel
+- Ich lerne Deutsch (ij lérne doitsch): I learn German
+- Deutsch ist meine dritte Sprache (doitsch ist maine drite shprache): German is my third language
+- Ich brauche mehr Übung (ij brauhe mer úbung): I need more practice
+- Ich weiß, wie ich mich vorstellen muss (ij vais, vie ij mih forstélen mus): I know how to introduce myself
+- Mein Name ist Victor (main name ist víktor): My name is Victor
+- Ich heibe Victor (ij haize víktor): I am called Victor
+- Ich bin Victor (ij bin víktor): I am Victor
+- Wie heißen Sie? (vie haizen si): What is your name? [formal]. Note: if we use the formal we have to use "Herr" or "Frau" before the name.
+- Wie heißt du? (vie haist du): What is your name? [informal]
+- Ich bin Software-Ingenieur (ij bin software-ingenieur): I am a software engineer [informal]
+- Ich arbeite als Software-Ingenieur (ij arbeite als software-ingenieur): I work as a software engineer [informal]
+- Was sind sie fon Beruf? (vas zint zi fon beruf): What is your profession? [formal]
+- Was machen Sie befuftlich? (vas máchen zi befúftlich): What do you do professionally? [formal]
+- Was bist Du von Beruf? (vas bist du fon beruf): What is your profession? [informal]
+- Was machst Du beruflich? (vas máchst du befúftlich): What do you do professionally? [informal]
+- Ich bing neundundzwanzig Jahre alt (ij bin neundundzwanzig jahre alt): I am twenty-nine years old
+- Wie alt sind Sie? (vie alt zint zi): How old are you? [formal]
+- Wie alt bist du? (vie alt bist du): How old are you? [informal]
+- Ich bin Mexikaner (ij bin meksikaner): I am Mexican
+- Ich bin Mexikanerin (ij bin meksikanerin): I am Mexican [
