@@ -35,4 +35,4 @@
 - Wie alt sind Sie? (vie alt zint zi): How old are you? [formal]
 - Wie alt bist du? (vie alt bist du): How old are you? [informal]
 - Ich bin Mexikaner (ij bin meksikaner): I am Mexican
-- Ich bin Mexikanerin (ij bin meksikanerin): I am Mexican [
+- Ich bin Mexikanerin (ij bin meksikanerin): I am Mexican
