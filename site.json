@@ -1,0 +1,14 @@
+{
+  "title": "Victor Marmolejo",
+  "subtitle": "Just a guy learning a bunch of stuff",
+  "owner": {
+    "name": "Victor Marmolejo"
+  },
+  "social": {},
+  "seo": {
+    "title": "Victor Marmolejo",
+    "description": "Blog of a Software Engineer",
+    "author": "Victor Marmolejo",
+    "keywords": ["blog", "developer blog", "engineering blog"]
+  }
+}

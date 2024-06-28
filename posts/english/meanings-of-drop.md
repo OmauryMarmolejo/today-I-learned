@@ -1,0 +1,31 @@
+# Meanings of "Drop"
+
+- Release something (album/ single/ movie/ product)
+  - The band dropped their new album last week.
+  - The company is dropping a new product next month.
+- Knock someone down
+  - Kevin dropped his opponent with a left hook.
+  - The boxer dropped his opponent with a right hook.
+- Spend a lot of money
+  - I dropped a lot of money on that new phone.
+  - She dropped a lot of money on that new dress.
+  - He dropped a grand on that new watch.
+- Take drugs
+  - He dropped acid at the party.
+  - She dropped ecstasy at the party.
+- End friendship / relationship
+  - I dropped him as a friend.
+  - She dropped him as a boyfriend.
+  - The label dropped the band.
+- Lose phone signal
+  - I dropped the call.
+  - The call dropped.
+- Fall asleep
+  - I dropped off during the movie.
+  - She dropped off during the lecture.
+- Deliver something
+  - I'll drop the package off at your house.
+  - I'll drop the package off at your office.
+- Let someone off
+  - I'll drop you off at the station.
+  - I'll drop you off at the airport.
