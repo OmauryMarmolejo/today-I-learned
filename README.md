@@ -43,6 +43,8 @@ A spot to stash everything I've learned during the day.
 - [Meanings of "Drop"](english/meanings-of-drop.md)
 - [Negotiating Vocabulary](english/negotiating-vocabulary.md)
 - [Anki series](english/anki-series/)
+- [Idioms List](english/idioms-list.md)
+- [Words List](english/words-list.md)
 
 ## Terraform
 
