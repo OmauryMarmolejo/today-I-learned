@@ -1,6 +1,7 @@
 "I'm practicing my English and would like your help generating a story related to this post. Please incorporate the following elements:
 
-Use past perfect, past perfect continuous, and present perfect tenses frequently. Mark these phrases in bold.
+I'm practicing my English and would like your help generating a story. Please incorporate the following elements:
+Use past perfect, past perfect continuous, and present perfect tenses frequently. Mark these phrases in bold and indicate the correct pronunciation of the '-ed' ending in parentheses for the past perfect and present perfect tenses: (/t/), (/d/), or (/id/)
 Include many verbs in the simple past tense. For each of these verbs, indicate the correct pronunciation of the '-ed' ending in parentheses: (/t/), (/d/), or (/id/). Mark these verbs and their pronunciations in bold as well.
 If possible, try to incorporate some of the following words I'm practicing:
 
