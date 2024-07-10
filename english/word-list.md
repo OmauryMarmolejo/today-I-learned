@@ -70,7 +70,6 @@ Hip (noun)
 Being (noun)
 Owed (verb)
 Lean (adjective)
-Ribbon (noun)
 Untie (verb)
 Flip out (phrasal verb)
 Tight (adjective)
@@ -85,4 +84,9 @@ Cap (noun)
 Rush (verb)
 Sweep (verb)
 Slide (verb)
-Get along with (phrasal verb)
+Bitter
+Steam
+Sake
+Come over
+Figure out
+Get in
