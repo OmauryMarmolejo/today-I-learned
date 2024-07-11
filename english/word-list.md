@@ -90,3 +90,11 @@ Sake
 Come over
 Figure out
 Get in
+Ripple
+Get [something] over with
+Get along with
+Tight
+Snap
+Clever
+Spit
+Loan
