@@ -15,3 +15,9 @@ A place to keep track of words, phrases, corrections and other things I want to 
 - Quite similar: The two cars are quite similar - Very similar
 
 - The value of sharing/giving/learning: The value of sharing is immeasurable - Conjugate using "ing" form
+
+- Hand in (phrasal verb): I handed in my homework - To give something to someone in authority
+
+- Flip out (phrasal verb): I flipped out when I saw the spider - To become very angry or excited
+
+- Hang on to (phrasal verb): Hang on to your receipt just in case there's an issue - To keep something
