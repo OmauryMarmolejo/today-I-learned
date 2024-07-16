@@ -98,3 +98,30 @@ Snap
 Clever
 Spit
 Loan
+Brush up
+Spare
+Sigh
+Ripple
+Bounce
+Come over
+Ribbon
+Hand in
+Get something over with
+Make fun of
+Stain
+Hop
+Wrist
+Get around to
+Haul
+Gross out
+Sour
+Get there
+Cheer up
+Bitter
+Faint
+Clever
+Flip out
+Lend
+Gut
+Disease
+Hang on to
