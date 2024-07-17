@@ -21,3 +21,9 @@ A place to keep track of words, phrases, corrections and other things I want to 
 - Flip out (phrasal verb): I flipped out when I saw the spider - To become very angry or excited
 
 - Hang on to (phrasal verb): Hang on to your receipt just in case there's an issue - To keep something
+
+- Focus on (phrasal verb): I focused on my studies - To concentrate on something
+
+- "on a site": A post on Reddit - a post on YouTube
+
+- "for": I used instagram for six months - "for" used to indicate a period of time

@@ -125,3 +125,8 @@ Lend
 Gut
 Disease
 Hang on to
+stale water
+smallpox
+shingles
+toddler
+reentering citizens
