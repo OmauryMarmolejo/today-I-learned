@@ -27,3 +27,12 @@ A place to keep track of words, phrases, corrections and other things I want to 
 - "on a site": A post on Reddit - a post on YouTube
 
 - "for": I used instagram for six months - "for" used to indicate a period of time
+
+- "Based on": The movie is based on a true story - "Based on" used to indicate the source of something
+
+  - "Contratulate you on": I want to congratulate you on your promotion - "Congratulate you on" used to express praise or approval
+
+  - Back to Back: I watched two movies back to back - One after the other
+  - Endorsement: The celebrity endorsement helped the brand - Approval or support
+  - Recreation: I like to go to the park for recreation - Activity done for enjoyment
+  - Recreation: To recreate the scene, we need to find the right props - To create again
