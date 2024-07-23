@@ -36,3 +36,11 @@ A place to keep track of words, phrases, corrections and other things I want to 
   - Endorsement: The celebrity endorsement helped the brand - Approval or support
   - Recreation: I like to go to the park for recreation - Activity done for enjoyment
   - Recreation: To recreate the scene, we need to find the right props - To create again
+
+- Cook: Pronunciation: /kʊk/ Like just one syllable
+
+- Thinking about that
+
+- To reschedule at the last minute
+
+- I tried to reschedule at in a short time frame
