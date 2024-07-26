@@ -46,3 +46,10 @@ A place to keep track of words, phrases, corrections and other things I want to 
 - I tried to reschedule at in a short time frame
 
 - Reflect on: I need to reflect on what I've learned - To think about something carefully
+
+- Darkness vs Dark
+
+- Later that night: To add more detail to a story and improve the storytelling
+- I was 29 years old at the time
+
+I piece of advice vs any advice. Advice is uncountable it doesn't have a plural form
