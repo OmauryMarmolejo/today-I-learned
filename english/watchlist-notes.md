@@ -52,4 +52,11 @@ A place to keep track of words, phrases, corrections and other things I want to 
 - Later that night: To add more detail to a story and improve the storytelling
 - I was 29 years old at the time
 
-I piece of advice vs any advice. Advice is uncountable it doesn't have a plural form
+- I piece of advice vs any advice. Advice is uncountable it doesn't have a plural form
+
+- Past simple pronunciation: /t/ /d/ /id/
+
+  - Verbs that end with d, t, sound like /id/
+
+- Use "in" for months, years, seasons, decades, centuries, and long periods of time
+- When user "recommend" use "to" or "that" after it
